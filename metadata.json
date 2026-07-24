@@ -1,0 +1,6 @@
+{
+  "name": "Vedix AI",
+  "description": "A feature-rich, high-performance AI chatbot web application featuring real-time chat, voice synthesis, image generation, document analysis, and comprehensive admin statistics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
